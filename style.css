@@ -1,17 +1,84 @@
-*, *::before, *::after { box-sizing: border-box; }
-
-body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
+h5{
+  color:#060412;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+  font-size: 20px;
+margin: 20px;
+}
+header{
+  display:flex;
+  
+  font-family: Roboto Condensed;
   align-items: center;
-  min-height: 100vh;
-  background: #1a1a2e;
+  
 }
+.press{
+  border:none;
+  overflow: hidden;
+  display:flex;
+  gap:10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:white;
+}
+  .services{
+  border:none;
+  overflow: hidden;
+  display:flex;
+  gap:10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:white;
+}
+.port{
+  border:none;
+  overflow: hidden;
+  display:flex;
+  gap:10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:white;
+}
+.pro{
+  border:none;
+  overflow: hidden;
+  display:flex;
+  gap:10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:white;
+}
+.con{
+  border:none;
+  overflow: hidden;
+  display:flex;
+  gap:10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:white;
+}
+.special{
+  border:none;
+  overflow: hidden;
+  display: flex;
+  
+  background-color: white;
+}
+  .twi{
+  border:none;
+  overflow: hidden;
+  display: flex;
+  background-color: white;
+  }
 
-canvas {
-  display: block;
-  /* Pixel-perfect scaling — no blurry edges */
-  image-rendering: pixelated;
-  image-rendering: crisp-edges;
-}
+  .link{
+  border:none;
+  overflow: hidden;
+  display: flex;
+  padding:0;
+  background-color: white;
+  }
+  .in{
+  border:none;
+  overflow: hidden;
+  display: flex;
+padding:0;
+  background-color: white;
+  }
