@@ -16,7 +16,7 @@ header{
 }
 .press{
   border:none;
-  overflow: hidden;
+  
   display:flex;
   gap:10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -24,7 +24,7 @@ header{
 }
   .services{
   border:none;
-  overflow: hidden;
+  
   display:flex;
   gap:10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -32,7 +32,7 @@ header{
 }
 .port{
   border:none;
-  overflow: hidden;
+  
   display:flex;
   gap:10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -40,7 +40,7 @@ header{
 }
 .pro{
   border:none;
-  overflow: hidden;
+  
   display:flex;
   gap:10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -48,7 +48,7 @@ header{
 }
 .con{
   border:none;
-  overflow: hidden;
+  
   display:flex;
   gap:10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -56,29 +56,33 @@ header{
 }
 .special{
   border:none;
-  overflow: hidden;
+  
   display: flex;
   
   background-color: white;
 }
   .twi{
   border:none;
-  overflow: hidden;
+  
   display: flex;
   background-color: white;
   }
 
   .link{
   border:none;
-  overflow: hidden;
+
   display: flex;
   padding:0;
   background-color: white;
   }
   .in{
   border:none;
-  overflow: hidden;
   display: flex;
 padding:0;
   background-color: white;
   }
+  .icon{
+    display:flex;
+    gap:10px;
+  }
+  
