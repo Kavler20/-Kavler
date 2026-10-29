@@ -55,6 +55,7 @@ li a{
   color: #fffeff;
   border: 0;
   font-weight: 600;
+  
 }
 main{
   margin-top:100px;
@@ -79,9 +80,47 @@ main{
     display:flex;
     align-items: center;
     
+    
   }
   .in{
     display:flex;
-    flex-direction: column;
+    flex-direction:column;
     gap:30px
+    
   }
+  
+  
+  
+  .heel{
+    color:#5E5E5C;
+    font-weight:500px;
+  }
+    .heet{
+      color:#5E5E5C;
+      font-size: 1.17rem;
+    
+    }
+    .iya{
+border-width:1px;
+border-style:solid;
+border-color:#DCDCDC;
+border-radius:30px;
+background-color:white;
+  }
+  textarea{
+    width:100%;
+    resize:none;
+    border:none;
+    outline:none;
+    padding:5px 15px;
+    font-family: ;
+  }
+.hel{
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #171715;
+  color: #fffeff;
+  border: 0;
+  font-weight: 600;
+  margin-left:220px;
+}
